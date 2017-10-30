@@ -1,0 +1,6 @@
+[DbConnection]
+username = user
+password = pass
+database = chef_test
+hostname = 127.0.0.1
+charset  = utf8mb4
